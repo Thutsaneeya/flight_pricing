@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebook (ไม่ต้องการให้ push ขึ้น)
+.ipynb_checkpoints/
+flight-code.ipynb
+# VS Code settings
+.vscode/
+
+# ระบบ OS ทั่วไป
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Git
+.git/
