@@ -38,7 +38,7 @@ It applies data cleaning, outlier filtering, and visualization techniques to unc
 - Jupyter Notebook
 
 ## 📁 File Structure
-- flight_pricing
-    - |data/ → Raw data
-    - notebooks/ → EDA and visualization
-    - README.md → Project overview
+- `flight_pricing`
+    - `data/` → Raw data
+    - `notebooks/` → EDA and visualization
+    - `README.md` → Project overview
