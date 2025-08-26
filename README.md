@@ -5,9 +5,9 @@ This project explores the distribution and variability of flight ticket prices a
 It applies data cleaning, outlier filtering, and visualization techniques to uncover pricing patterns and insights.
 
 ## 🎯 Objectives
-- Analyze the distribution of airline ticket prices to understand key statistics such as average, minimum, and maximum fares.
-- Explore how destinations and airlines influence ticket pricing patterns.
-- Investigate the impact of temporal factors such as departure time, airline, and cabin class fare variability
+- Analyze ticket prices across airlines and destinations  
+- Explore how time and cabin class affect fare variability  
+- Uncover pricing patterns driven by demand and airline strategy
 
 ## 📂 Dataset
 - **Source**: [Flight_Price_Prediction.csv]
