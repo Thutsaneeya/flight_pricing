@@ -10,7 +10,7 @@ It applies data cleaning, outlier filtering, and visualization techniques to unc
 - Uncover pricing patterns driven by demand and airline strategy
 
 ## 📂 Dataset
-- **Source**: [Flight_Price_Prediction.csv]
+- **Source**: [Flight Ticket Price Prediction – Kaggle](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction/data)
 - **Rows**: ~300,153 flight records
 - **Key Columns**: `price`, `airline`, `destination_city`, `departure_time`, `class`
 
@@ -38,6 +38,6 @@ It applies data cleaning, outlier filtering, and visualization techniques to unc
 
 ## 📁 File Structure
 - flight_pricing
-    - data/ → Raw data
+    - |data/ → Raw data
     - notebooks/ → EDA and visualization
     - README.md → Project overview
