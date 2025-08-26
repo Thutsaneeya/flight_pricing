@@ -1,5 +1,5 @@
 # ✈️ Flight Ticket Price Analysis
-📓 View the full analysis: [flight_pricing.ipynb](notebooks/flight_pricing.ipynb)
+View the full analysis: [flight_pricing.ipynb](notebooks/flight_pricing.ipynb)
 
 ## 📌 Project Overview
 This project explores the distribution and variability of flight ticket prices across different airlines, destinations, and departure times.  
