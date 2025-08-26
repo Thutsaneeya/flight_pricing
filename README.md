@@ -38,6 +38,6 @@ It applies data cleaning, outlier filtering, and visualization techniques to unc
 
 ## 📁 File Structure
 - flight_pricing
-    - data : Raw data
-    - notebooks/ : EDA and visualization
-    README.md: Project overview
+    - data/ → Raw data
+    - notebooks/ → EDA and visualization
+    - README.md → Project overview
