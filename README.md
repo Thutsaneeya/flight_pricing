@@ -33,9 +33,9 @@ It applies data cleaning, outlier filtering, and visualization techniques to unc
 - Pricing is influenced by market demand, airline strategy, and passenger behavior
 
 ## 🛠️ Tools & Libraries
-- Python, Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
+- `Python`, `Pandas`, `NumPy`
+- `Matplotlib`, `Seaborn`
+- `Jupyter Notebook`
 
 ## 📁 File Structure
 - `flight_pricing`
